@@ -1,0 +1,26 @@
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe.config
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.pdb
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.xml
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\MySql.Data.dll
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.vbprojResolveAssemblyReference.cache
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Form1.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Home.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Resources.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.RegisterLibrarian.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.vbproj.GenerateResource.Cache
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.exe
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.xml
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.pdb
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.LibrarianView.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.AddBook.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.BookOut.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.BooksView.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.NewStudent.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.StudentView.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.BookIn.resources
+D:\Projects\VB\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.BorrowStatus.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe.config
+C:\Users\Clareen Vans\Desktop\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.exe
+C:\Users\Clareen Vans\Desktop\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.xml
+C:\Users\Clareen Vans\Desktop\visual 12 projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.pdb
